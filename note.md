@@ -23,3 +23,9 @@ mern stack to do application
 
 - add {useState,useEffect} after react import in TodoList.js
 - a lot of react hook which i have no idea
+
+- EditTodo.js copied CreateTodo and change titles
+- in EditTodo defaultValues: { text: todo ? todo.text : "" }, is not working
+- how to fix ?create TOdoForm.js
+
+- CreateTodo.js use TodoFrom and change button name to save Todo
